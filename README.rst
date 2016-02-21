@@ -4,8 +4,6 @@ Ural
 Maintenance service from Ural
 
 
-Development
------------
 
 
 
